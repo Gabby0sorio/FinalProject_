@@ -53,7 +53,7 @@
     <UnityVersion>2020.3.17f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\scripts\Food.cs" />
+    <Compile Include="Assets\scripts\food.cs" />
     <Compile Include="Assets\scripts\Snake.cs" />
   </ItemGroup>
   <ItemGroup>
