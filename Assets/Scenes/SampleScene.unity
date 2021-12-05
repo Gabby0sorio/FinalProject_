@@ -247,9 +247,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   GridArea: {fileID: 299270898}
 =======
 >>>>>>> f67c724fef777d7de3d449f35d5e425f638b9ab3
+=======
+  gridArea: {fileID: 299270898}
+>>>>>>> parent of a6f51bc (hi)
 =======
   gridArea: {fileID: 299270898}
 >>>>>>> parent of a6f51bc (hi)

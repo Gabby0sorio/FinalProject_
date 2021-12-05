@@ -20,7 +20,11 @@ MonoBehaviour:
     height: 769.2
   m_ShowMode: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: 
+=======
+  m_Title: Inspector
+>>>>>>> parent of a6f51bc (hi)
 =======
   m_Title: Inspector
 >>>>>>> parent of a6f51bc (hi)
@@ -53,6 +57,9 @@ MonoBehaviour:
 =======
     width: 1536
     height: 732
+<<<<<<< HEAD
+>>>>>>> parent of a6f51bc (hi)
+=======
 >>>>>>> parent of a6f51bc (hi)
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
@@ -82,15 +89,21 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1163
     y: 0
     width: 360
     height: 719
 =======
+=======
+>>>>>>> parent of a6f51bc (hi)
     x: 1173
     y: 0
     width: 363
     height: 732
+<<<<<<< HEAD
+>>>>>>> parent of a6f51bc (hi)
+=======
 >>>>>>> parent of a6f51bc (hi)
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
@@ -117,8 +130,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 288
     height: 426
+=======
+    width: 290
+    height: 434
+>>>>>>> parent of a6f51bc (hi)
 =======
     width: 290
     height: 434
@@ -256,8 +274,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1163
     height: 719
+=======
+    width: 1173
+    height: 732
+>>>>>>> parent of a6f51bc (hi)
 =======
     width: 1173
     height: 732
@@ -294,8 +317,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1163
     height: 426
+=======
+    width: 1173
+    height: 434
+>>>>>>> parent of a6f51bc (hi)
 =======
     width: 1173
     height: 434
@@ -323,6 +351,7 @@ MonoBehaviour:
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_Name: 
@@ -335,10 +364,14 @@ MonoBehaviour:
 =======
   m_Name: SceneView
 >>>>>>> parent of a6f51bc (hi)
+=======
+  m_Name: SceneView
+>>>>>>> parent of a6f51bc (hi)
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 288
     y: 0
@@ -352,6 +385,12 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+    x: 290
+    y: 0
+    width: 883
+    height: 434
+>>>>>>> parent of a6f51bc (hi)
 =======
     x: 290
     y: 0
@@ -425,9 +464,15 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 0a420000
     m_LastClickedID: 16906
     m_ExpandedIDs: 000000000a4200000c4200000e420000104200001242000000ca9a3b
+=======
+    m_SelectedIDs: 8c420000
+    m_LastClickedID: 17036
+    m_ExpandedIDs: 000000007a4200007c4200007e420000804200008242000000ca9a3b
+>>>>>>> parent of a6f51bc (hi)
 =======
     m_SelectedIDs: 8c420000
     m_LastClickedID: 17036
@@ -461,7 +506,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 000000000a4200000c4200000e4200001042000012420000
+=======
+    m_ExpandedIDs: 000000007a4200007c4200007e4200008042000082420000
+>>>>>>> parent of a6f51bc (hi)
 =======
     m_ExpandedIDs: 000000007a4200007c4200007e4200008042000082420000
 >>>>>>> parent of a6f51bc (hi)
@@ -541,11 +590,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1169.6
     y: 78.4
     width: 358
     height: 698
 =======
+=======
+>>>>>>> parent of a6f51bc (hi)
     x: 1173.2001
     y: 72
     width: 362
@@ -600,8 +652,13 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
+=======
+      m_SelectedIDs: f4410000
+      m_LastClickedID: 16884
+>>>>>>> parent of a6f51bc (hi)
 =======
       m_SelectedIDs: f4410000
       m_LastClickedID: 16884
@@ -667,9 +724,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -2.158674, y: -0.5971687, z: -0.3289025}
     speed: 2
     m_Value: {x: -1.6716853, y: -0.48593324, z: -0.29473102}
+=======
+    m_Target: {x: -5.228731, y: 0.44042444, z: -7.337966}
+    speed: 2
+    m_Value: {x: -5.228731, y: 0.44042444, z: -7.337966}
+>>>>>>> parent of a6f51bc (hi)
 =======
     m_Target: {x: -5.228731, y: 0.44042444, z: -7.337966}
     speed: 2
@@ -726,9 +789,15 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 9.064957
     speed: 2
     m_Value: 9.492101
+=======
+    m_Target: 17.655418
+    speed: 2
+    m_Value: 17.655418
+>>>>>>> parent of a6f51bc (hi)
 =======
     m_Target: 17.655418
     speed: 2
@@ -779,11 +848,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 507
     y: 94
     width: 1532
     height: 790
 =======
+=======
+>>>>>>> parent of a6f51bc (hi)
     x: 290
     y: 72
     width: 881
@@ -797,7 +869,11 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 1532, y: 769}
+=======
+  m_TargetSize: {x: 881, y: 392}
+>>>>>>> parent of a6f51bc (hi)
 =======
   m_TargetSize: {x: 881, y: 392}
 >>>>>>> parent of a6f51bc (hi)
@@ -816,11 +892,14 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -766
     m_HBaseRangeMax: 766
     m_VBaseRangeMin: -395
     m_VBaseRangeMax: 395
 =======
+=======
+>>>>>>> parent of a6f51bc (hi)
     m_HBaseRangeMin: -176.2
     m_HBaseRangeMax: 176.2
     m_VBaseRangeMin: -78.4
@@ -854,6 +933,9 @@ MonoBehaviour:
       height: 392
     m_Scale: {x: 2.423949, y: 2.423949}
     m_Translation: {x: 440.5, y: 196}
+<<<<<<< HEAD
+>>>>>>> parent of a6f51bc (hi)
+=======
 >>>>>>> parent of a6f51bc (hi)
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -861,6 +943,7 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       x: -766
       y: -395
@@ -870,6 +953,8 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1532, y: 790}
 =======
+=======
+>>>>>>> parent of a6f51bc (hi)
       x: -181.72824
       y: -80.85979
       width: 363.45648
@@ -877,6 +962,9 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 2
   m_LastWindowPixelSize: {x: 2202.5, y: 1032.5}
+<<<<<<< HEAD
+>>>>>>> parent of a6f51bc (hi)
+=======
 >>>>>>> parent of a6f51bc (hi)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
