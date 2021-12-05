@@ -52,6 +52,7 @@ MonoBehaviour:
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
   controlID: 76
@@ -61,6 +62,9 @@ MonoBehaviour:
 =======
   controlID: 122
 >>>>>>> f67c724fef777d7de3d449f35d5e425f638b9ab3
+=======
+  controlID: 107
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -238,6 +242,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
   controlID: 16
@@ -247,6 +252,9 @@ MonoBehaviour:
 =======
   controlID: 56
 >>>>>>> f67c724fef777d7de3d449f35d5e425f638b9ab3
+=======
+  controlID: 108
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -271,6 +279,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
   controlID: 17
@@ -280,6 +289,9 @@ MonoBehaviour:
 =======
   controlID: 57
 >>>>>>> f67c724fef777d7de3d449f35d5e425f638b9ab3
+=======
+  controlID: 109
+>>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -290,7 +302,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: GameView
+  m_Name: SceneView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -299,14 +311,14 @@ MonoBehaviour:
     y: 0
     width: 882.4
     height: 434
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 16}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
   - {fileID: 16}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -486,7 +498,11 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
+<<<<<<< Updated upstream
   m_LastVerticalScrollValue: 318.8001
+=======
+  m_LastVerticalScrollValue: 0
+>>>>>>> Stashed changes
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
@@ -519,9 +535,13 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
       m_SelectedIDs: c6110000
+=======
+      m_SelectedIDs: 
+>>>>>>> Stashed changes
 =======
       m_SelectedIDs: 
 >>>>>>> Stashed changes
@@ -740,7 +760,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
