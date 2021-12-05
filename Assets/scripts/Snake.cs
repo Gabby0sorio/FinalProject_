@@ -41,7 +41,7 @@ public class Snake : MonoBehaviour
 
     private void FixedUpdate()
     {
-        for (int i = _segments.Count -1; i > 0; i--)
+        for (int i = _segments.Count - 1; i > 0; i--)
         {
             _segments[i].position = _segments[i - 1].position;
         }
@@ -67,6 +67,7 @@ public class Snake : MonoBehaviour
 
         _segments.Clear();
         _segments.Add(this.transform);
+
 
     }
     private void OnTriggerEnter2D(Collider2D other)
