@@ -48,7 +48,11 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 55
+=======
+  controlID: 107
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -225,7 +229,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 103
+=======
+  controlID: 108
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +258,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 104
+=======
+  controlID: 109
+>>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -261,15 +273,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< Updated upstream
   m_Name: 
+=======
+  m_Name: SceneView
+>>>>>>> Stashed changes
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
     x: 288
     y: 0
+<<<<<<< Updated upstream
     width: 875
     height: 426
+=======
+    width: 883
+    height: 434
+>>>>>>> Stashed changes
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
@@ -680,7 +701,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
