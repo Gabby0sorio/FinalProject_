@@ -245,7 +245,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a5eec63120e6aa48b34b1ee8ea634c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   GridArea: {fileID: 299270898}
+=======
+>>>>>>> f67c724fef777d7de3d449f35d5e425f638b9ab3
 --- !u!1 &299270897
 GameObject:
   m_ObjectHideFlags: 0
