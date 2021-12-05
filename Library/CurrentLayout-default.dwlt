@@ -49,7 +49,11 @@ MonoBehaviour:
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 55
+=======
+  controlID: 107
+>>>>>>> Stashed changes
 =======
   controlID: 107
 >>>>>>> Stashed changes
@@ -230,7 +234,11 @@ MonoBehaviour:
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 103
+=======
+  controlID: 108
+>>>>>>> Stashed changes
 =======
   controlID: 108
 >>>>>>> Stashed changes
@@ -259,7 +267,11 @@ MonoBehaviour:
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 104
+=======
+  controlID: 109
+>>>>>>> Stashed changes
 =======
   controlID: 109
 >>>>>>> Stashed changes
@@ -274,7 +286,11 @@ MonoBehaviour:
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Name: 
+=======
+  m_Name: SceneView
+>>>>>>> Stashed changes
 =======
   m_Name: SceneView
 >>>>>>> Stashed changes
@@ -290,6 +306,9 @@ MonoBehaviour:
 =======
     width: 883
     height: 434
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
